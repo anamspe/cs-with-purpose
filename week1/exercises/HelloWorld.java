@@ -1,4 +1,3 @@
-package first_class;
 /******************************************************************************
  *  Compilation:  javac HelloWorld.java
  *  Execution:    java HelloWorld
