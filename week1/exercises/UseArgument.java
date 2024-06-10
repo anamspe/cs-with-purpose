@@ -1,5 +1,3 @@
-package week1.exercises;
-
 /******************************************************************************
  *  Compilation:  javac UseArgument.java
  *  Execution:    java UseArgument name

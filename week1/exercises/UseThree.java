@@ -1,4 +1,4 @@
-package week1.exercises;
+
 
 public class UseThree {
   public static void main(String[] args) {
