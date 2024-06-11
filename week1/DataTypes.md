@@ -62,13 +62,13 @@ Type conversion is an essential aspect of programming.
 ### Automatic
 - Convert number to string for "+". `(concatenation)`
 - Make numeric types match if no loss of precision. 
-```
+```java
 expression        type    value
   11 * 2     →   double    2.75
 ```
 
 ### Explicitly defined for function call
-```
+```java
     expression                  type    value
 Integer.parseInt("123")   →      int     123
 Math.round(2.71828)       →     long      3 
@@ -78,7 +78,7 @@ Math.round(2.71828)       →     long      3
 - Ex: small integers can be short, int or long. 
 - Ex: double values can be truncated to int values.
 
-```
+``` java
      expression                       type    value
 int(2.718)                      →     int       2
 (int)Math.round(2.71828)        →     int       2
